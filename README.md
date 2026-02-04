@@ -1,1 +1,1 @@
-# materials-data-explorer
+# Band Gap Data Explorer
